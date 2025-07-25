@@ -44,7 +44,7 @@ Task Management App (To-Do App)/
 ### Prerequisites
 
 - Node.js (v18 or higher recommended)
-- Python 3.8 or higher
+- Python 3.12 or higher
 - npm or yarn
 - pip (Python package installer)
 
@@ -140,6 +140,12 @@ The backend provides a RESTful API for managing tasks. For detailed API document
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## Future Updates
+1. Add Notifications.
+2. Add Reminders.
+3. Add Voice Speking Task.
+4. Add Controle With All Home Voice Assistance Devices.
 
 ## Acknowledgements
 
